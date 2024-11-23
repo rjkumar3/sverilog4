@@ -1,0 +1,33 @@
+Command: /home/users7/rk366163/526LSP24/Lab4/./simv -l Lab4.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Feb 27 17:53 2024
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+Input d = 0, output q = 0, output qbar = 1 at time                  200
+d=0 q=0 qbar=1
+         10strobe at time                  200
+Input d = 0, output q = 0, output qbar = 1 at time                  600
+d=0 q=0 qbar=1
+         10strobe at time                  600
+Input d = 1, output q = 0, output qbar = 1 at time                 1000
+d=1 q=0 qbar=1
+         10strobe at time                 1000
+Input d = 0, output q = 0, output qbar = 1 at time                 1400
+d=0 q=0 qbar=1
+         10strobe at time                 1400
+Input d = 1, output q = 0, output qbar = 1 at time                 1800
+d=1 q=0 qbar=1
+         10strobe at time                 1800
+CLear asserted at time                 2200
+CLear asserted at time                 2600
+CLear asserted at time                 3000
+CLear asserted at time                 3400
+CLear asserted at time                 3800
+CLear asserted at time                 4200
+CLear asserted at time                 4600
+$finish called from file "dff_tb.v", line 38.
+$finish at simulation time                 4700
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 470000 ps
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Tue Feb 27 17:53:35 2024
